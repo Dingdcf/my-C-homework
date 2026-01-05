@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736944192 source:d:\学习\大一上学期\c语言\作业\practice\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
